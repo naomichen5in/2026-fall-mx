@@ -4,6 +4,12 @@ body {
 }
 
 footer {
-    background-color: light-dark(rgb(117, 233, 248), rgb(71, 89, 110));
+    background-color: light-dark(rgb(131, 251, 241), rgb(71, 89, 110));
     color: light-dark(rgb(16, 16, 16), rgb(234, 236, 239));
+}
+
+.center {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
 }
