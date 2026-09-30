@@ -13,3 +13,13 @@ footer {
     margin-left: auto;
     margin-right: auto;
 }
+
+#color-chooser {
+    border: 3px solid rgb(93, 247, 247);
+
+ 
+input{
+    display: none;
+ 
+}
+}
